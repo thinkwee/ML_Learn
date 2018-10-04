@@ -1,2 +1,3 @@
 # ML_Learn
-some code of ml for learning
+-	some code of machine learning
+-	these code are mainly for learning
